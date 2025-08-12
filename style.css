@@ -1,0 +1,155 @@
+#body1
+{
+  background-color: black;
+
+}
+img 
+{
+  width: 55%;
+  border-radius: 10px;   
+}
+#Img
+{
+  height: 450px;
+  width: 600px;
+}
+a
+{
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 60px;
+    color: black;
+    border-radius: 10px;
+}
+a:hover
+{
+  color: rgb(235, 154, 25);
+}
+a:active
+{
+  color: rgb(19, 112, 41);
+}
+nav
+{
+  background-color: rgb(38, 58, 99);
+  border-radius: 5px;
+}
+#sec
+{
+    text-align: center;
+}
+p
+{
+  color: aliceblue;
+  font-size: 26px;   
+  font-weight: bold;
+  padding: 25px;
+  display: inline;
+
+}
+#p1:hover
+{
+   color: rgb(232, 153, 25);
+   font-size: 26px;
+}
+#p2:hover
+{
+    color: rgb(232, 153, 25);
+    font-size: 163%;
+}
+
+#page2
+{
+  background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+#pPage2
+{
+  display: block;
+  padding-top:20.5%  ;
+  padding-bottom:20.5% ;
+  margin: 0px;
+
+  border: 1px rgb(126, 144, 155) solid;
+}
+#body11
+{
+  background-color: black;
+  color: rgb(95, 128, 148);
+  text-align: center;
+}
+#body3
+{
+  background-color: black;
+  color: rgb(95, 128, 148);
+}
+#bodyh
+{
+   background-color: black;
+   color: white;
+}
+#div
+{
+  text-align: center;
+    padding-top:14%  ;
+  padding-bottom:14% ;
+  margin: 0px;
+}
+.submit
+{
+  color: black;
+  background-color:rgb(232, 153, 25) ;
+  font-weight:bold;
+  border-radius: 3px;
+}
+#f
+{
+  color: rgb(227, 221, 221);
+  background-color: rgb(38, 58, 99);
+  border-radius: 5px;
+  margin: 0px;
+}
+#f:hover
+{
+   color: rgb(232, 153, 25); 
+}
+#hd:hover
+{
+    color: rgb(232, 153, 25);
+}
+#co
+{
+  margin-left: 8px;
+  font-size: 15px;
+}
+#as
+{
+  text-align: center;
+}
+.gg
+{
+  height: 450px;
+}
+#body6
+{
+  background-color:black ;
+}
+.qq
+{
+  width:20px ;
+  margin-left: 20px;
+ margin-top: 40px;
+}
+.con
+{
+  display: inline;
+  font-size:18px;
+  padding: 0px;
+  padding-left: 10px;
+  color: rgb(210, 206, 234);
+}
+.con:hover
+{
+    color: rgb(232, 153, 25);
+}
