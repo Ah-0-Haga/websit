@@ -18,7 +18,7 @@ a
     text-decoration: none;
     font-size: 23px;
     font-weight: bold;
-    padding: 60px;
+    margin: 6%;
     color: black;
     border-radius: 10px;
 }
@@ -152,4 +152,5 @@ p
 .con:hover
 {
     color: rgb(232, 153, 25);
+
 }
